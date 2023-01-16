@@ -28,5 +28,4 @@ module.exports = {
     runtimeChunk: 'single',
   },
   mode: 'development',
-  target: 'web'
 };
